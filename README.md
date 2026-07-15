@@ -75,7 +75,7 @@ Desenvolver um sistema CRUD em C++ para aplicar conceitos de programação estru
 ```text
 Projeto/
 │
-├── images/
+├── imagens/
 │   ├── demo.gif
 │   ├── menu.png
 │   ├── cadastro.png
@@ -140,35 +140,35 @@ No Windows:
 
 A animação abaixo apresenta o fluxo principal do sistema.
 
-![Demonstração do sistema](images/demo.gif)
+![Demonstração do sistema](imagens/demo.gif)
 
 ## Menu principal
 
-![Menu](images/menu.png)
+![Menu](imagens/menu.png)
 
 ## Cadastro de moradores
 
-![Cadastro](images/cadastro.png)
+![Cadastro](imagens/cadastro.png)
 
 ## Lista de moradores
 
-![Listagem](images/listagem.png)
+![Listagem](imagens/listagem.png)
 
 ## Pesquisa de morador
 
-![Pesquisa](images/pesquisa.png)
+![Pesquisa](imagens/pesquisa.png)
 
 ## Update de dados do morador
 
-![Update](images/update.png)
+![Update](imagens/update.png)
 
 ## Apagar dados do morador
 
-![Delete](images/delete.png)
+![Delete](imagens/delete.png)
 
 ## Persistência em arquivo TXT
 
-![TXT](images/persistencia.png)
+![TXT](imagens/persistencia.png)
 
 ---
 
