@@ -1,0 +1,15 @@
+# Executáveis
+*.exe
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Banco de símbolos
+*.pdb
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivo de dados gerado pelo sistema
+moradores.txt
